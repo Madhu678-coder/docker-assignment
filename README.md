@@ -13,6 +13,7 @@ docker login
 docker pull madhu14777/basicwebsiteimage
 
 **Run the docker image in your machine**
+
 docker run -d -p 8080:80 madhu14777/basicwebsiteimage
 
 **THIS IS MY WEBSITE PAGE**
